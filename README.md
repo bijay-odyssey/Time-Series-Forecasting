@@ -29,7 +29,7 @@ Current notebooks in the repository:
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 ### 1️ **AirPassengers Forecasting (myPractice.ipynb)**
 
@@ -167,9 +167,10 @@ Trying, observing, evaluating, correcting, and iterating — the core of applied
 
 ---
 
-## 📄 About
+## About
 
 A collection of experimental and research-oriented time series projects built as part of my “learn by doing” machine learning journey.
+
 The goal is not just to build models, but to understand them, question them, and iterate toward better insights.
 
 ---
